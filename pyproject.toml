@@ -1,0 +1,19 @@
+[project]
+name = "find-session"
+version = "0.1.0"
+description = "Search and resume sessions across coding agents (Claude Code, Codex, OpenCode)"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "rich>=13.0.0",
+]
+
+[project.scripts]
+find-session = "find_session.main:main"
+find-claude-session = "find_session.claude:main"
+find-codex-session = "find_session.codex:main"
+find-opencode-session = "find_session.opencode:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
