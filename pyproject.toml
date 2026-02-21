@@ -1,6 +1,6 @@
 [project]
 name = "find-session"
-version = "0.1.0"
+version = "0.1.1"
 description = "Search and resume sessions across coding agents (Claude Code, Codex, OpenCode)"
 readme = "README.md"
 requires-python = ">=3.11"
