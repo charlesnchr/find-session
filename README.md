@@ -1,5 +1,11 @@
 # find-session
 
+> [!IMPORTANT]
+> This repository is now superseded by **coding-agent-tools**:
+> https://github.com/charlesnchr/coding-agent-tools
+>
+> `find-session` continues there alongside `agent-usage` (the successor to `allusage`).
+
 Search and resume coding sessions across AI agents — [Claude Code](https://docs.anthropic.com/en/docs/claude-code), [Codex](https://github.com/openai/codex), and [OpenCode](https://github.com/opencode-ai/opencode) — from a single command.
 
 Sessions from all agents are merged into one table sorted by time, with keyword search (AND logic), project filtering, and an interactive selection UI for resuming, inspecting, or exporting sessions.
