@@ -126,7 +126,7 @@ Optionally create `~/.config/find-session/config.json` to customise agent displa
 
 ## Origin
 
-This project grew out of session-finding utilities in [claude-code-tools](https://github.com/charlesnchr/claude-code-tools), extracted into a standalone package to make it easy to install and maintain independently.
+This project grew out of session-finding utilities in [claude-code-tools](https://github.com/pchalasani/claude-code-tools), extracted into a standalone package to make it easy to install and maintain independently.
 
 ## License
 
